@@ -1,2 +1,2 @@
-# Tuberculosis-Detector-TBVIISION
-TEAM- AI Vengers Tuberculosis-Detector  TBVISOIN
+# Tuber-culosis-Detection-TBVISION
+TEAM-AI Vengers Tuberculosis-Detector TBVISION
